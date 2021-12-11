@@ -6,7 +6,7 @@
   <link href="https://hxw33.github.io/atom.xml" rel="self"/>
   
   <link href="https://hxw33.github.io/"/>
-  <updated>2021-12-10T06:25:16.148Z</updated>
+  <updated>2021-12-10T11:03:53.569Z</updated>
   <id>https://hxw33.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="https://hxw33.github.io/2021/12/10/page/"/>
+    <id>https://hxw33.github.io/2021/12/10/page/</id>
+    <published>2021-12-10T11:03:53.000Z</published>
+    <updated>2021-12-10T11:03:53.569Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
